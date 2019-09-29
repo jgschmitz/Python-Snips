@@ -1,4 +1,4 @@
-Python3
+python3
 #check the memory usage of an object
 import sys 
 
