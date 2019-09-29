@@ -1,2 +1,2 @@
 # Python-Snips
-Some useful Python snios
+Some useful Python snippets
