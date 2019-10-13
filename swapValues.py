@@ -1,3 +1,4 @@
+python3
 def spread(arg):
     ret = []
     for i in arg:
