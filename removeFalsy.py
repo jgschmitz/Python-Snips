@@ -1,3 +1,4 @@
+python3
 #This method removes falsy values (False, None, 0 and “”) from a list by using filter().
 def compact(lst):
     return list(filter(bool, lst))
