@@ -1,3 +1,5 @@
+python3
+
 #transpose 2D array
 array = [['a', 'b'], ['c', 'd'], ['e', 'f']]
 transposed = zip(*array)
