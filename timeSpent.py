@@ -1,5 +1,6 @@
-import time
+python3
 
+import time
 start_time = time.time()
 
 a = 1
