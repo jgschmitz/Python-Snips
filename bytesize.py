@@ -1,4 +1,5 @@
 Python3
+
 #returns the length of a string in bytes
 def byte_size(string):
     return(len(string.encode('utf-8')))
