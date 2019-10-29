@@ -7,4 +7,4 @@ except TypeError:
 else:
     print("Thank God, no exceptions were raised.")
 
-#Thank God, no exceptions were raised.
+#no exceptions were raised.
