@@ -1,7 +1,7 @@
 python3
 #The following methods flatten a potentially deep list using recursion.
 
-print "1,2,3,4,5,6,7,8
+print "1,2,3,4,5,6,7
 
 cook.....
 
