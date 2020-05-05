@@ -3,8 +3,6 @@ python3
 
 print
 
-cook.....
-
 def spread(arg):
     ret = []
     for i in arg:
