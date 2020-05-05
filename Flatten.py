@@ -1,7 +1,7 @@
 python3
 #The following methods flatten a potentially deep list using recursion.
 
-print "1
+print
 
 cook.....
 
