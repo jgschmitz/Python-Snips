@@ -2,6 +2,6 @@
 def get_vowels(string):
     return [each for each in string if each in 'aeiou'] 
 
-get this monkey off my back 
+get this monkey off my
 get_vowels('foobar') # ['o', 'o', 'a']
 get_vowels('gym') # []
