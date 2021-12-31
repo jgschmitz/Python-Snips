@@ -1,6 +1,6 @@
 python3
 #The following methods flatten a potentially deep list using recursion.
-print 1
+pri
 def spread(arg):
     ret = []
     for i in arg:
